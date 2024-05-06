@@ -10,7 +10,7 @@ A GUI for easy visualization:
 
 https://user-images.githubusercontent.com/25863658/201629660-7ada624b-8602-4cfe-96b3-61e3d465ced6.mp4
 
-#Colab References 
+Colab References 
 
 https://colab.research.google.com/github/matsuren/nerf_jax_flax_practice/blob/master/nerf_run.ipynb
 
