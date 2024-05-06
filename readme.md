@@ -10,6 +10,12 @@ A GUI for easy visualization:
 
 https://user-images.githubusercontent.com/25863658/201629660-7ada624b-8602-4cfe-96b3-61e3d465ced6.mp4
 
+#Colab References 
+
+https://colab.research.google.com/github/matsuren/nerf_jax_flax_practice/blob/master/nerf_run.ipynb
+
+https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/nerf.ipynb
+
 # Install
 
 Tested on Ubuntu 22.04, Pytorch 1.12 and CUDA 11.6.
